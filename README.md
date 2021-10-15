@@ -1,7 +1,7 @@
 # ulmmcm
 Unsupervised Learning of Multi-Model Consensus Maximization
 
-# setup for training
+# setup
 1. download 'data' from https://drive.google.com/drive/folders/1r7yCz47ceY6DQQb53MRpcM5_LImb9H-Q?usp=sharing
 2. place 'data' inside the repository in such a way the directory tree appears as follows:  
 ```
