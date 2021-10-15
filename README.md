@@ -29,3 +29,6 @@ Unsupervised Learning of Multi-Model Consensus Maximization
 2. choose what scenario to test among those listed in the menu  
 (results are already stored in results/test)
 
+# contacts
+
+contact me at william.bonvini@outlook.com for any question or doubt!
