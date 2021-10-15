@@ -1,5 +1,5 @@
 # ulmmcm
-Unsupervised Learning of Multi-Model Consensus Maximization
+Unsupervised Learning of Multi-Model Consensus Maximization. Based on the [single model scenario](https://openaccess.thecvf.com/content_CVPR_2019/papers/Probst_Unsupervised_Learning_of_Consensus_Maximization_for_3D_Vision_Problems_CVPR_2019_paper.pdf) developed by Thomas Probst et al.    
 
 # setup
 1. download 'data' from https://drive.google.com/drive/folders/1i_20qdSdSLnVVkvEaG6lJWl92c6HGNYQ?usp=sharing
