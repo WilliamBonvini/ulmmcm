@@ -1,7 +1,7 @@
 # ulmmcm
 Unsupervised Learning of Multi-Model Consensus Maximization
 
-# setup
+# setup for training
 1. download 'data' from https://drive.google.com/drive/folders/1r7yCz47ceY6DQQb53MRpcM5_LImb9H-Q?usp=sharing
 2. place 'data' inside the repository in such a way the directory tree appears as follows:  
 ```
@@ -9,10 +9,11 @@ Unsupervised Learning of Multi-Model Consensus Maximization
       |  
       | -- bin  
       | -- data  
-      | -- model  
-      | -- syndalib  
-      | -- utils  
-      | -- losses.py  
+      | -- model
+      | -- results
+      | -- syndalib             
+      | -- utils                
+      | -- losses.py             
       | -- metrics.py  
       | -- requirements.txt  
 ```
@@ -25,4 +26,6 @@ Unsupervised Learning of Multi-Model Consensus Maximization
 
 # test
 1. run test.py script
-2. choose what scenario to test among those listed in the menu
+2. choose what scenario to test among those listed in the menu  
+(results are already stored in results/test)
+
